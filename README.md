@@ -1,9 +1,9 @@
-Article related repository
+Paper related repository
 
 ## *PRINCIPAL-AGENT PROBLEM IN SUPPLY CHAIN MANAGEMENT - SIMULATION BASED FRAMEWORK*
 Authors: Kinga Siuta, Daniel Kaszyński
 
-
+---
 
 ### Abstract:
 
